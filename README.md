@@ -1,5 +1,5 @@
 # 🏛️ AI Seismic FAQ Assistant
-**Lead Developer:** [Your Name]  
+**Lead Developer:** [Parnika Patole]  
 **Project Goal:** Technical support bot for the Multi-Modal AI Seismic Forecasting (MASF) Framework.
 
 ## 🚀 Overview
